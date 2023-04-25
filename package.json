@@ -1,0 +1,23 @@
+{
+  "name": "desafio-ec8",
+  "version": "1.0.0",
+  "description": "Exercicio Enade 2019 produtorio, em nodejs e express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsanteixeira/DesafioEC8.git"
+  },
+  "author": "Gabriel Teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsanteixeira/DesafioEC8/issues"
+  },
+  "homepage": "https://github.com/gsanteixeira/DesafioEC8#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
